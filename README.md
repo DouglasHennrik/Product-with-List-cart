@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto é uma aplicação web de lista de produtos com um carrinho de compras. Ele permite que os usuários visualizem produtos, adicionem itens ao carrinho e confirmem pedidos. A interface é responsiva e utiliza uma abordagem moderna de design.
+Este projeto é uma aplicação web de lista de produtos com um carrinho de compras. Ele permite que os usuários visualizem produtos, adicionem e retirem itens ao carrinho e confirmem pedidos. A interface ultiliza uma abordagem moderna no design.
 
 ## Screenshot do Projeto
 
@@ -11,7 +11,7 @@ Este projeto é uma aplicação web de lista de produtos com um carrinho de comp
 ## Tecnologias Utilizadas
 
 - **HTML**: Estrutura básica da aplicação.
-- **CSS**: Estilos para a interface do usuário.
+- **Scss**: Estilos para a interface do usuário.
 - **TypeScript**: Lógica de negócios, incluindo manipulação do carrinho de compras.
 - **Vite**: Ferramenta de construção para desenvolvimento e otimização do projeto.
 
@@ -20,7 +20,7 @@ Este projeto é uma aplicação web de lista de produtos com um carrinho de comp
 O projeto contém os seguintes arquivos principais:
 
 - `index.html`: Página principal da aplicação.
-- `styles.css`: Estilos CSS para a interface.
+- `index.scss`: Estilos CSS para a interface.
 - `app.ts`: Lógica em TypeScript para gerenciar o carrinho e a lista de produtos.
 - `data.json`: Arquivo com dados dos produtos.
 
