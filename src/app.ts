@@ -1,6 +1,6 @@
 import { v4 as randomUUID } from "uuid";
-import { Product } from "./src/entities/product";
-import { ShoppingCart } from "./src/entities/shoppingcart";
+import { Product } from "./entities/product";
+import { ShoppingCart } from "./entities/shoppingcart";
 
 // Instancia o carrinho de compras
 const cart = new ShoppingCart();
